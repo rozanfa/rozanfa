@@ -1,4 +1,4 @@
-<h2>Welcome to my Github profile!👋</h2>
+<h2>Welcome to My Github Profile!👋</h2>
 
 <p> 
 My name is Rozan Fadhil Al Hafidz. I am currently a seventh-semester Informatic Engineering at Institut Teknologi Bandung.
